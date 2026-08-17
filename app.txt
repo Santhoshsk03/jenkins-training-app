@@ -1,7 +1,3 @@
-Hello from GitHub
+Version 3
 
-This is my Jenkins training application.
-
-Version 2
-
-Jenkins is learning CI/CD.
+Jenkins Poll SCM test
