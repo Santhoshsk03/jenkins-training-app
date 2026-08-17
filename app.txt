@@ -1,2 +1,7 @@
 Hello from GitHub
+
 This is my Jenkins training application.
+
+Version 2
+
+Jenkins is learning CI/CD.
